@@ -1,11 +1,16 @@
 _repo: The-Chemical-Constituents-of-Piper-Methysticum-The-Chemical-Constituents-of-the-Active-Princi__67736
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67736-h/images/cover.jpg
 creator:
   author:
     agent_name: Ball, Alice Augusta
     gutenberg_agent_id: '54431'
     url: http://www.gutenberg.org/2009/agents/54431
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67736#The-Chemical-Constituents-of-Piper-Methysticum-The-Chemical-Constituents-of-the-Active-Princi_
 gutenberg_issued: '2022-03-29'
 identifiers:
   gutenberg: '67736'
