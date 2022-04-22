@@ -1,0 +1,27 @@
+_repo: The-Chemical-Constituents-of-Piper-Methysticum-The-Chemical-Constituents-of-the-Active-Princi__67736
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ball, Alice Augusta
+    gutenberg_agent_id: '54431'
+    url: http://www.gutenberg.org/2009/agents/54431
+description: ''
+gutenberg_issued: '2022-03-29'
+identifiers:
+  gutenberg: '67736'
+language: en
+pgterms:marc904: https://scholarspace.manoa.hawaii.edu/handle/10125/1844
+pgterms:marc905: 20211228133014ball
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Mary Glenn Krause, Les Galloway and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (The University of Hawaiʻi at Mānoa)
+publication_note: United States :The College of Hawaii,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Chemical Constituents of Piper Methysticum; The Chemical Constituents of
+  the Active Principle of the Ava Root
+url: http://www.gutenberg.org/ebooks/67736
